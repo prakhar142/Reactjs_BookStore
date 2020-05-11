@@ -1,0 +1,31 @@
+{
+  "books": [
+    {
+      "title": "secret",
+      "author": "Prakhar",
+      "isbn": "1234",
+      "publicationDate": "1997",
+      "publisher": "JK",
+      "price": "230",
+      "id": 1
+    },
+    {
+      "title": "Check Todosss",
+      "author": "vinnu",
+      "isbn": "5764",
+      "publicationDate": "1998",
+      "publisher": "GK",
+      "price": "300",
+      "id": 2
+    },
+    {
+      "title": "Testing",
+      "author": "Anand",
+      "isbn": "576456",
+      "publicationDate": "2020",
+      "publisher": "Wipro",
+      "price": "430",
+      "id": 3
+    }
+  ]
+}
